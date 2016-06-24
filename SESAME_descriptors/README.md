@@ -1,0 +1,1 @@
+SESAME PNF, VNF and NS descriptors. All inputs are based on T-NOVA descriptors. Files are presented on JSON. To read files easier please copy the JSON file one the left column at http://www.jsoneditoronline.org/
